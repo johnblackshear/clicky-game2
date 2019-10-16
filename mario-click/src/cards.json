@@ -1,0 +1,76 @@
+[
+    {
+        "id": 1,
+        "name": "Mario",
+        "image": "https://upload.wikimedia.org/wikipedia/en/a/a9/MarioNSMBUDeluxe.png",
+        "count": 0
+    },
+    {
+        "id": 2,
+        "name": "Bowser",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/11/BowserNSMBUD.png",
+        "count": 0
+
+    },
+    {
+    "id": 3,
+    "name": "Yoshi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d9/YoshiMarioParty10.png",
+    "count": 0
+    },
+    {
+    "id": 4,
+    "name": "Boo",
+    "image": "https://upload.wikimedia.org/wikipedia/en/b/b9/BooNSMBWarticle.png",
+    "count": 0
+    },
+    {
+    "id": 5,
+    "name": "Donkey Kong",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d4/Donkey_Kong_character.png",
+    "count": 0
+    },
+    {
+    "id": 6,
+    "name": "Toad",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d1/Toad_3D_Land.png",
+    "count": 0
+    },
+    {
+    "id": 7,
+    "name": "Luigi",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f1/LuigiNSMBW.png",
+    "count": 0
+    },
+    {
+    "id": 8,
+    "name": "Peach",
+    "image": "https://upload.wikimedia.org/wikipedia/en/d/d5/Peach_%28Super_Mario_3D_World%29.png",
+    "count": 0
+    },
+    {
+    "id": 9,
+    "name": "Birdo",
+    "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Birdo-MP9.png",
+    "count": 0
+    },
+    {
+    "id": 10,
+    "name": "Wario",
+    "image": "https://upload.wikimedia.org/wikipedia/en/8/81/Wario.png",
+    "count": 0
+    },
+    {
+    "id": 11,
+    "name": "Kirby",
+    "image": "https://upload.wikimedia.org/wikipedia/en/5/5c/Kirby.png",
+    "count": 0
+    },
+    {
+    "id": 12,
+    "name": "Samus",
+    "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Metroidprime3_1.png",
+    "count": 0
+    }
+]
+
